@@ -48,7 +48,7 @@ export default function App() {
           >
             {greeting}
           </label>!
-          welcome to lightency
+          welcome to lightency1
         </h1>
         <p>
         Your contract is storing a greeting message in the NEAR blockchain. To
